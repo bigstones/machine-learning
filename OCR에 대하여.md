@@ -12,12 +12,14 @@ MNIST와 같은 알고리즘을 생성하여 공유하는 것 같다
     KAKAO Vision (KAKAO)
     (hp)
     
-    
+###### 오픈소스
+
     Calamari
     OCRopusKraken
     Tesseract(추천)
     
-    
+###### 부분유료
+
     Adobe Acrobat Pro OCR
     Abbyy Cloud OCR
     Google Cloud Vision
