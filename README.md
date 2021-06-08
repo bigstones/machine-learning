@@ -10,3 +10,8 @@
     Euresys eVision Library
     Cognex Vision Pro
     MVTec Halcon HDevelop Library
+    
+    
+<!--
+https://jmp-machinepro.tistory.com/6
+-->
