@@ -11,7 +11,12 @@
     Cognex Vision Pro
     MVTec Halcon HDevelop Library
     
-    
+##### 학습데이터 얻을 수 있는 사이트
+
+    i.e. socrata
+    kaggle
+    data.world
+    google search
 <!--
 https://jmp-machinepro.tistory.com/6
 -->
