@@ -22,4 +22,4 @@ https://jmp-machinepro.tistory.com/6
 -->
 
 
-##### 머신러닝 모델은 pickle 과 joblib으로 저장할 수 있다.
+##### python에서 머신러닝 모델은 pickle 과 joblib으로 저장할 수 있다.
